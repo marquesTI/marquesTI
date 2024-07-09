@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, Sou Gustavo Marques!
 
-<!--
-**marquesTI/marquesTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 👨‍💻 Um jovem entusiasta de tecnologia que adora mergulhar no mundo do desenvolvimento web. Com foco na área de front-end, estou sempre em busca de novas tecnologias e práticas para criar interfaces de usuário incríveis e funcionais.
 
-Here are some ideas to get you started:
+### ⚽ Quando não estou codando, você pode me encontrar jogando futebol ou assistindo aos jogos do meu time favorito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gu-marques/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marquesgk_/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marquesTI&layout=compact&&bg_color=109.6,663399,020004&text_color=fffefe&border_color=020004)
