@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marquesgk_/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marquesTI&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marquesTI&show_icons=true&theme=radical&border_color=2e343b)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marquesTI&layout=compact&theme=radical&text_color=fffefe&border_color=2e343b)
 
