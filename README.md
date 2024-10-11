@@ -1,6 +1,6 @@
 # 👋 Olá, Sou Gustavo Marques!
 
- ## 👨‍💻 Um jovem entusiasta de tecnologia que adora mergulhar no mundo do desenvolvimento web. Com foco na área de front-end, estou sempre em busca de novas tecnologias e práticas para criar interfaces de usuário incríveis e funcionais.
+ ## 👨‍💻 Um jovem entusiasta de tecnologia que adora mergulhar no mundo do desenvolvimento web. Como desenvolvedor fullstack, estou sempre em busca de novas tecnologias e práticas para criar soluções completas e funcionais, tanto no front-end quanto no back-end
 
 ### ⚽ Quando não estou codando, você pode me encontrar jogando futebol ou assistindo aos jogos do meu timão❤️.
 
